@@ -1,0 +1,1 @@
+A Linux system administrator with a strong focus on kernel management, experienced in modifying kernel parameters, managing modules, and working with pseudo file systems, such as proc and sys, who is likely responsible for optimizing and customizing Linux kernel settings for specific use cases.

@@ -1,0 +1,1 @@
+A software developer with a focus on systems programming, low-level programming, and possibly embedded systems, who is likely to work with the C or C++ programming languages and is familiar with the specifics of the Microsoft Visual C++ compiler and the Windows operating system.

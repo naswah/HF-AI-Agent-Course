@@ -1,0 +1,1 @@
+A software developer, specifically a C# programmer, experienced with object-oriented programming principles and Generics.

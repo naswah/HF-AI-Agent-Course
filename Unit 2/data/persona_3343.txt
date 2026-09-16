@@ -1,0 +1,1 @@
+A software engineer or computer science professional focused on programming languages, specifically interested in the comparison and implementation of generic programming concepts in C++ and Java.

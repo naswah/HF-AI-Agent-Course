@@ -1,0 +1,1 @@
+A Python programmer interested in image processing and manipulation, likely a beginner to intermediate level developer with a focus on using the Pillow library.

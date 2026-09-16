@@ -1,0 +1,1 @@
+A data engineer or architect focused on data integration and management, particularly in the context of data warehousing, data governance, or data analytics platforms.

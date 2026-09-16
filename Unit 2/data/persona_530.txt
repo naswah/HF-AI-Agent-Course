@@ -1,0 +1,1 @@
+A software developer specializing in Java programming, likely with a focus on legacy code maintenance or compatibility, given the mention of deprecated interface functionality.

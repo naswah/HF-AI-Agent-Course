@@ -1,0 +1,1 @@
+A cybersecurity enthusiast and researcher focused on network protocols, particularly SMB, and penetration testing using tools like Metasploit and nmap.

@@ -1,0 +1,1 @@
+A machine learning engineer or student, likely an enthusiast or beginner, focused on implementing neural networks using Keras and Tensorflow, possibly with a passion for sharing knowledge through tutorials.

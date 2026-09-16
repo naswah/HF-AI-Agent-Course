@@ -1,0 +1,1 @@
+A machine learning researcher focused on the application of deep learning and computer vision techniques in medical diagnosis, particularly in the development of automated systems for disease detection, such as malaria.

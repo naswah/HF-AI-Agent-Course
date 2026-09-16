@@ -1,0 +1,1 @@
+A cryptography expert or software security engineer focused on studying and explaining the technical details of encryption algorithms, particularly the Data Encryption Standard (DES) and its variations, such as Triple DES (3DES), and comparing them with other encryption algorithms like AES.

@@ -1,0 +1,1 @@
+An SQL developer or database administrator focused on understanding and explaining advanced query concepts, data manipulation, and complex join operations.

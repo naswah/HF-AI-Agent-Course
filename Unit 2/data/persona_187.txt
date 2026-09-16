@@ -1,0 +1,1 @@
+A Linux system administrator focused on security and authentication, likely with experience in implementing and managing Pluggable Authentication Modules (PAM) in a Unix environment.

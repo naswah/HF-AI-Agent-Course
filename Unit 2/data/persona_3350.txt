@@ -1,0 +1,1 @@
+A computer science student or entry-level programming instructor focused on teaching fundamental programming concepts, specifically C++ basics and basic algorithms.

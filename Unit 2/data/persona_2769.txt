@@ -1,0 +1,1 @@
+An educational computing specialist focused on introductory programming, particularly in transitioning students from visual block-based programming to text-based languages like Python.

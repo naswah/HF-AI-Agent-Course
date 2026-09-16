@@ -1,0 +1,1 @@
+A database developer or architect focused on designing and implementing robust SQL query logic, particularly with CQL (C SQLite), who has a deep understanding of cursor operations, stored procedures, and result set manipulation.

@@ -1,0 +1,1 @@
+A middle school math teacher focused on implementing Common Core State Standards (CCSS) aligned resources for 8th-grade algebra and functions.

@@ -1,0 +1,1 @@
+A professional software developer with expertise in .NET programming, likely with a focus on C# and the .NET Framework, interested in explaining and understanding low-level programming concepts such as value and reference types.

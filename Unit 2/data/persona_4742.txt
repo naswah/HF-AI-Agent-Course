@@ -1,0 +1,1 @@
+A software developer or programmer who specializes in cross-platform development using Revolution (now LiveCode), particularly focused on creating applications that support multiple languages and character sets through Unicode implementation.

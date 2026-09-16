@@ -1,0 +1,1 @@
+An Emacs Lisp programmer or an experienced Emacs user interested in scripting and customizing the Emacs editor.

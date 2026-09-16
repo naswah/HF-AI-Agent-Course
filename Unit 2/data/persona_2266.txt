@@ -1,0 +1,1 @@
+A data scientist or analyst working with R statistical software, particularly focused on integrating filtering functionality in data visualization dashboards, likely utilizing libraries such as Dash and possibly flipping through existing analyses or utilizing base R functions for filtering data.
