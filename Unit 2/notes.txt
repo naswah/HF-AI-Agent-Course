@@ -41,3 +41,20 @@ QueryEngine in LlamaIndex:
 - Storing: once your data is indexed you will want to store your index, as well as other metadata, to avoid having to re-index it.
 - Querying: for any given indexing strategy there are many ways you can utilize LLMs and LlamaIndex data structures to query, including sub-queries, multi-step queries and hybrid strategies.
 - Evaluation: a critical step in any flow is checking how effective it is relative to other strategies, or when you make changes. Evaluation provides objective measures of how accurate, faithful and fast your responses to queries are.
+
+
+Tools in LlamaIndex
+1. Function Tool: COnvert any python function into a tool that an agent can use. It automatically figures out how the function works.
+2. Query Engine Tool: A tool that lets agents use query Engine.
+3. Toolspecs: Sets of tools created by the community
+4. Utility Tools: SPecial tools that help handle large amount of data from other tools.
+
+Workflows in LlamaIndex
+- Clear organization of code into discrete steps
+- Event-driven architecture for flexible control flow
+- Type-safe communication between steps
+- Built-in state management
+- Support for both simple and complex agent interactions
+
+State Management
+State management is useful when you want to keep track of the state of the workflow, so that every step has access to the same state. We can do this by using the Context type hint on top of a parameter in the step function.
