@@ -58,3 +58,21 @@ Workflows in LlamaIndex
 
 State Management
 State management is useful when you want to keep track of the state of the workflow, so that every step has access to the same state. We can do this by using the Context type hint on top of a parameter in the step function.
+
+
+
+
+Langgraph
+LangGraph is particularly valuable when you need Control over your applications. It gives you the tools to build an application that follows a predictable process while still leveraging the power of LLMs.
+
+The key scenarios where LangGraph excels include:
+- Multi-step reasoning processes that need explicit control on the flow
+- Applications requiring persistence of state between steps
+- Systems that combine deterministic logic with AI capabilities
+- Workflows that need human-in-the-loop interventions
+- Complex agent architectures with multiple components working together
+
+How Langgraph works:
+- Nodes
+- Edges
+- State
