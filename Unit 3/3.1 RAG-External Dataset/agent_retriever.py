@@ -2,10 +2,10 @@
 # builds a keyword-based search engine (retriever) over a dataset of gala invitees so LangGraph agent can query guest information at runtime.
 
 import datasets
+from httpx2 import query
 from langchain_core.documents import Document
 from langchain_core.tools import Tool
 from langchain_community.retrievers import BM25Retriever
-import random
 
 guest_list= datasets.load_dataset("agents-course/unit3-invitees", split="train")
 
@@ -32,15 +32,3 @@ def extract_text(query: str)-> str:
         return "\n\n".join([doc.page_content for doc in results[:3]])
     else:
         return "No guests found."
-
-
-def get_weather(location: str)-> str:
-    """Fetched dummy weather information for a given location."""
-    weather_conditions=[
-        {"condition": "Rainy", "temp_c": 15},
-        {"condition": "Sunny", "temp_c": 30},
-        {"condition": "Windy", "temp_c": 20},
-        {"condition": "Snowy", "temp_c": -5},
-    ]
-    data= random.choice(weather_conditions)
-    return f"Weather in {location}: {data['condition']}, {data['temp_c']}"
