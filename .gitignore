@@ -2,3 +2,4 @@
 hf_env
 alfred_chroma_db/
 lib/
+__pycache__/
